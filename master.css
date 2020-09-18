@@ -1,0 +1,280 @@
+.penguins {
+  text-align: center;
+  margin: auto;
+  width: 1100px;
+  font-size: 50px;
+  font-family: Futura
+}
+.image {
+  width: 600px;
+  margin: auto
+}
+.penguin-image {
+  width: 100%
+}
+.h4 {
+  text-align: center;
+  margin: auto;
+  font-size: 30px;
+  font-family: Helvetica;
+  font-weight: bold
+}
+.h42 {
+  text-align: center;
+  margin: auto;
+  font-size: 30px;
+  font-family: Helvetica;
+  font-weight: bold
+}
+.video {
+  margin: auto
+}
+.column {
+  flex: 30%;
+  height: 300px;
+  width: 600px;
+  background-color: lightblue;
+  border-radius: 20px;
+  margin: 15px;
+  padding: 10px;
+  margin: auto
+}
+.page2 {
+  text-align: center;
+  margin: auto;
+  font-family: Futura
+}
+.pinguino {
+  text-align: center;
+  margin: auto;
+  font-weight: bold
+}
+.spanish {
+  width: 200px;
+margin: auto
+}
+.企鹅 {
+  text-align: center;
+  margin: auto;
+  font-weight: bold
+}
+.chinese {
+  width: 200px;
+  margin: auto
+}
+.пингвин {
+  text-align: center;
+  margin: auto;
+  font-weight: bold
+}
+.russian {
+  width: 200px;
+  margin: auto
+}
+.πιγκουίνος {
+  text-align: center;
+  margin: auto;
+  font-weight: bold
+}
+.greek {
+  width: 200px;
+  margin: auto
+}
+.pingvin {
+  text-align: center;
+  margin: auto;
+  font-weight: bold
+}
+.swedish {
+  width: 200px;
+  margin: auto
+}
+.page3 {
+  text-align: center;
+  margin: auto;
+  font-family: Futura
+}
+.left-column {
+  flex: 30%;
+  height: 250px;
+  background-color: white;
+  border-radius: 20px;
+  margin: 15px;
+  padding: 10px
+}
+
+.right-column {
+  flex: 30%;
+  background-color: white;
+  border-radius: 20px;
+  margin: 15px;
+  padding: 10px;
+}
+.row {
+  display: flex;
+}
+.left-column2 {
+  flex: 30%;
+  height: 250px;
+  background-color: white;
+  border-radius: 20px;
+  margin: 15px;
+  padding: 10px
+}
+
+.right-column2 {
+  flex: 30%;
+  background-color: white;
+  border-radius: 20px;
+  margin: 15px;
+  padding: 10px;
+}
+.row2 {
+  display: flex;
+}
+.left-column3 {
+  flex: 30%;
+  height: 250px;
+  background-color: white;
+  border-radius: 20px;
+  margin: 15px;
+  padding: 10px
+}
+
+.right-column3 {
+  flex: 30%;
+  background-color: white;
+  border-radius: 20px;
+  margin: 15px;
+  padding: 10px;
+}
+.row3 {
+  display: flex;
+}
+}
+.left-column4 {
+  flex: 30%;
+  height: 250px;
+  background-color: white;
+  border-radius: 20px;
+  margin: 15px;
+  padding: 10px
+}
+
+.right-column4 {
+  flex: 30%;
+  background-color: white;
+  border-radius: 20px;
+  margin: 15px;
+  padding: 10px;
+}
+.row4 {
+  display: flex;
+}
+.left-column5 {
+  flex: 30%;
+  height: 250px;
+  background-color: white;
+  border-radius: 20px;
+  margin: 15px;
+  padding: 10px
+}
+
+.right-column5 {
+  flex: 30%;
+  background-color: white;
+  border-radius: 20px;
+  margin: 15px;
+  padding: 10px;
+}
+.row5 {
+  display: flex;
+}
+.left-column6 {
+  flex: 30%;
+  height: 250px;
+  background-color: white;
+  border-radius: 20px;
+  margin: 15px;
+  padding: 10px
+}
+
+.right-column6 {
+  flex: 30%;
+  background-color: white;
+  border-radius: 20px;
+  margin: 15px;
+  padding: 10px;
+}
+.row6 {
+  display: flex;
+}
+.left-column7 {
+  flex: 30%;
+  height: 250px;
+  background-color: white;
+  border-radius: 20px;
+  margin: 15px;
+  padding: 10px
+}
+
+.right-column7 {
+  flex: 30%;
+  background-color: white;
+  border-radius: 20px;
+  margin: 15px;
+  padding: 10px;
+}
+.row7 {
+  display: flex;
+}
+.page4 {
+  text-align: center;
+  margin: auto;
+  font-family: Futura
+}
+.paragraph {
+  font-size: 22px
+}
+.head {
+  font-size: 30px;
+  font-family: Helvetica;
+  font-weight: bold
+}
+.para2 {
+font-size: 22px
+}
+.head2 {
+  font-size: 30px;
+  font-family: Helvetica;
+  font-weight: bold
+}
+.para3 {
+font-size: 22px
+}
+.head3 {
+  font-size: 30px;
+  font-family: Helvetica;
+  font-weight: bold
+}
+.para4 {
+font-size: 22px
+}
+.eating {
+  width: 700px;
+  margin: auto
+}
+.eating-image {
+  width: 100%
+}
+.stone {
+  width: 700px;
+  margin: auto
+}
+.stone-image {
+  width: 100%
+}
+.list {
+  font-size: 22px;
+  margin: auto
+}
